@@ -1,4 +1,4 @@
-# Disease-Analytics-Disease-Severity-Yield-Relationship-in-Tomato
+# Disease-Analytics-PowerBI
 Power BI–based analytical dashboard evaluating early blight disease severity (PDI, AUPDC) and its impact on tomato yield using trend, quadrant, and distribution analysis.
 This project presents a data-driven analytical assessment of early blight disease in tomato,
 focusing on the relationship between percent disease index (PDI), cumulative disease pressure (AUPDC), and yield performance.
